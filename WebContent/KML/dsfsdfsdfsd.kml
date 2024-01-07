@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" 
+  xmlns:atom="http://www.w3.org/2005/Atom"> 
+  <Document> 
+          <name>3D Surface for 20 km</name> 
+          <open>1</open> 
+          <Style id="surface_style_blue"> 
+                  <LineStyle> 
+                          <width>1.5</width> 
+                  </LineStyle> 
+                  <PolyStyle> 
+                          <color>7dff0000</color> 
+                  </PolyStyle> 
+          </Style> 
+          <Style id="surface_style_red"> 
+                  <LineStyle> 
+                          <width>1.5</width> 
+                  </LineStyle> 
+                  <PolyStyle> 
+                          <color>7d0000ff</color> 
+                  </PolyStyle> 
+          </Style> 
+          <Style id="bboxStyle"> 
+                  <LineStyle> 
+                          <width>1.5</width> 
+                  </LineStyle> 
+                  <PolyStyle> 
+                          <color>7dffffff</color> 
+                  </PolyStyle> 
+          </Style> 
+          <Placemark> 
+                  <name>-68.86 | 2001-03-06 02:45:02</name> 
+                  <description><![CDATA[<table width='300px' border='1'><tr><td>ID</ 
+  td><td>86</td></tr><tr><td>AVERAGE LONGITUDE</td><td>42.076</td></ 
+  tr><tr><td>AVERAGE LATITUDE</td><td>-17.377</td></tr><tr><td>AVERAGE 
+  ALTITUDE</td><td>20.9 KM</td></tr><tr><td>ALTITUDE SURFACE</ 
+  td><td>338570.28 KM</td></tr><tr><td>STARTTIME</td><td>2001-03-06 
+  02:44:10</td></tr><tr><td>ENDTIME</td><td>2001-03-06 02:45:02</td></tr><tr><td>GROUND STATION NUMBER</td><td>26</td></tr></table>]]></description> 
+                  <LookAt> 
+                          <longitude>42.076</longitude> 
+                          <latitude>-17.377</latitude> 
+                          <altitude>169285.14</altitude> 
+                          <range>300000</range> 
+                          <tilt>90</tilt> 
+                          <heading>0</heading> 
+                          <altitudeMode>absolute</altitudeMode> 
+                  </LookAt> 
+                  <styleUrl>#surface_style_red</styleUrl> 
+                  <MultiGeometry> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.02600021362305,-17.42700080871582,20000 
+  42.02600021362305,-17.32700080871582,20000 
+  42.12600021362304,-17.32700080871582,20000 
+  42.12600021362304,-17.42700080871582,20000 
+  42.02600021362305,-17.42700080871582,20000 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.02600021362305,-17.42700080871582,20000 
+  42.02600021362305,-17.32700080871582,20000 
+  42.02600021362305,-17.32700080871582,338570.28 
+  42.02600021362305,-17.42700080871582,338570.28 
+  42.02600021362305,-17.42700080871582,20000 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.02600021362305,-17.32700080871582,20000 
+  42.02600021362305,-17.32700080871582,338570.28 
+  42.12600021362304,-17.32700080871582,338570.28 
+  42.12600021362304,-17.32700080871582,20000 
+  42.02600021362305,-17.32700080871582,20000 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.12600021362304,-17.32700080871582,20000 
+  42.12600021362304,-17.32700080871582,338570.28 
+  42.12600021362304,-17.42700080871582,338570.28 
+  42.12600021362304,-17.42700080871582,20000 
+  42.12600021362304,-17.32700080871582,20000 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.02600021362305,-17.42700080871582,338570.28 
+  42.02600021362305,-17.32700080871582,338570.28 
+  42.12600021362304,-17.32700080871582,338570.28 
+  42.12600021362304,-17.42700080871582,338570.28 
+  42.02600021362305,-17.42700080871582,338570.28 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                          <Polygon> 
+                                  <altitudeMode>absolute</altitudeMode> 
+                                  <outerBoundaryIs> 
+                                          <LinearRing> 
+                                                  <coordinates> 
+  42.02600021362305,-17.42700080871582,338570.28 
+  42.12600021362304,-17.42700080871582,338570.28 
+  42.12600021362304,-17.42700080871582,20000 
+  42.02600021362305,-17.42700080871582,20000 
+  42.02600021362305,-17.42700080871582,338570.28 </coordinates> 
+                                          </LinearRing> 
+                                  </outerBoundaryIs> 
+                          </Polygon> 
+                  </MultiGeometry> 
+          </Placemark> 
+  </Document> 
+  </kml>
