@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Disabled People Library</name>
+	<Style id="JanglibraryIcon">
+		<IconStyle>
+			<Icon>	<href>http://postfiles13.naver.net/20130715_188/love2002911_13738159656065gpBJ_PNG/book180.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>Hasang Blind People Library</name>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<description>URL: http://onsori.or.kr  Tel: 02-451-6000</description>
+		<Point>
+			<coordinates>127.075112,37.492508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Korea Blind Welfare foundation Braille Library</name>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<description>URL: http://www.hsb.or.kr  Tel: 440-5201</description>	
+		<Point>
+			<coordinates>127.169232,37.551057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Korea Braille Library</name>	
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<description>URL: http://infor.kbll.or.kr  Tel: 3426-7411~4</description>
+		<Point>
+			<coordinates>127.124835,37.55069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gangseo Braille Library</name>
+				<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			
+			<coordinates>126.812944,37.557364,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Siloam Braille Library</name>
+		 
+		<description>URL: http://www.silwel.or.kr  Tel: 02-880-0500</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>126.941548,37.483948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seoul Braille Library</name>
+		 
+		<description>URL: http://kbuwel.or.kr  Tel: 935-9696</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>127.079629,37.626914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yeonggwang Blind Mobile Braille Library</name>
+		
+		<description>URL:  Tel:</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>126.957031,37.559424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seongbuk Braille Library</name>
+		 
+		<description>URL: www.sorimaeul.net  Tel: 923-4555</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>127.019211,37.595343,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Insung Blind Braille Library</name>
+		 
+		<description>URL: http://hotlineworld.net/  Tel: 422-6070</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>127.155172,37.493856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Korea Student Braille Library</name>
+		 
+		<description>URL: http://www.silwel.or.kr  Tel: 738-0890</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			 
+			<coordinates>126.968488,37.579846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jongdalse telephone Library</name>
+		 
+		<description>URL: http://www.jongdal.or.kr/  Tel: 02-736-3000</description>
+		<styleUrl>#JanglibraryIcon</styleUrl>
+		<Point>
+			<coordinates>126.981765,37.558783,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
